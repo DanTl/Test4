@@ -1,4 +1,4 @@
-dusing System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -15,6 +15,7 @@ namespace WebApplication1
         {
             CreateHostBuilder(args).Build().Run();
             //code was edited in GitHub
+            // Code was added in VS
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
